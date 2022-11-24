@@ -1,0 +1,60 @@
+2022-11-24 22:50:21,750 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2022-11-24 22:50:21,764 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-11-24 22:50:21,764 INFO o.a.j.JMeter: Loading additional properties from: C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\src\test\jmeter\URLs.txt
+2022-11-24 22:50:21,764 INFO o.a.j.JMeter: Loading additional properties from: C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\src\test\jmeter\loadtest.properties
+2022-11-24 22:50:21,765 INFO o.a.j.JMeter: Setting System property: sun.net.http.allowRestrictedHeaders=true
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: Version 5.4.1
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: java.version=1.8.0_351
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: os.name=Windows 10
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: os.arch=amd64
+2022-11-24 22:50:21,773 INFO o.a.j.JMeter: os.version=10.0
+2022-11-24 22:50:21,774 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-11-24 22:50:21,774 INFO o.a.j.JMeter: java.awt.headless=true
+2022-11-24 22:50:21,774 INFO o.a.j.JMeter: Max memory     =514850816
+2022-11-24 22:50:21,774 INFO o.a.j.JMeter: Available Processors =4
+2022-11-24 22:50:21,778 INFO o.a.j.JMeter: Default Locale=English (United States)
+2022-11-24 22:50:21,778 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2022-11-24 22:50:21,778 INFO o.a.j.JMeter: JMeterHome=C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\19b9fa5e-9e70-4e97-a444-4652c85323a3\jmeter
+2022-11-24 22:50:21,778 INFO o.a.j.JMeter: user.dir  =C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\19b9fa5e-9e70-4e97-a444-4652c85323a3\jmeter\bin
+2022-11-24 22:50:21,779 INFO o.a.j.JMeter: PWD       =C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\19b9fa5e-9e70-4e97-a444-4652c85323a3\jmeter\bin
+2022-11-24 22:50:21,779 INFO o.a.j.JMeter: IP: 192.168.8.103 Name: DESKTOP-AKVQFRD FullName: DESKTOP-AKVQFRD
+2022-11-24 22:50:21,786 INFO o.a.j.s.FileServer: Default base='C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\19b9fa5e-9e70-4e97-a444-4652c85323a3\jmeter\bin'
+2022-11-24 22:50:21,787 INFO o.a.j.s.FileServer: Set new base='C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\jmeter\testFiles'
+2022-11-24 22:50:21,907 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-11-24 22:50:21,923 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-11-24 22:50:21,927 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-11-24 22:50:21,932 INFO o.a.j.s.SaveService: Loading file: C:\Users\Damitha\IdeaProjects\SC599_Project_TestAutomation\Performance_Testing\target\jmeter\testFiles\MavenDemo.jmx
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-11-24 22:50:21,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-11-24 22:50:22,000 INFO o.a.j.JMeter: Creating summariser <summary>
+2022-11-24 22:50:22,006 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2022-11-24 22:50:22,007 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-11-24 22:50:22,007 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-11-24 22:50:22,014 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-11-24 22:50:22,014 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-11-24 22:50:22,345 INFO o.a.j.JMeter: Running test (1669310422345)
+2022-11-24 22:50:22,402 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2022-11-24 22:50:22,402 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2022-11-24 22:50:22,402 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2022-11-24 22:50:22,402 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2022-11-24 22:50:22,407 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2022-11-24 22:50:22,407 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2022-11-24 22:50:22,430 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2022-11-24 22:50:22,432 INFO o.a.j.s.FileServer: Stored: ./URLs.txt
+2022-11-24 22:50:22,454 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-AKVQFRD
+2022-11-24 22:50:22,460 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2022-11-24 22:50:22,461 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-11-24 22:50:22,461 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-11-24 22:50:22,462 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-11-24 22:50:22,462 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-11-24 22:50:22,724 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2022-11-24 22:50:22,724 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2022-11-24 22:50:22,725 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2022-11-24 22:50:22,725 INFO o.a.j.s.FileServer: Close: ./URLs.txt
+2022-11-24 22:50:22,727 INFO o.a.j.r.Summariser: summary =      2 in 00:00:00 =    5.2/s Avg:    99 Min:    64 Max:   135 Err:     1 (50.00%)

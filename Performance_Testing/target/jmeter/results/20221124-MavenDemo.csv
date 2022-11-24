@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1669310422522,135,HTTP Request,200,OK,Thread Group 1-1,text,true,,12663,263,1,1,http://192.168.8.1/html/index.html?url=example.com,111,0,96
+1669310422522,111,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,text,true,,402,116,1,1,http://example.com/,111,0,96
+1669310422636,21,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,12261,147,1,1,http://192.168.8.1/html/index.html?url=example.com,20,0,2
+1669310422659,64,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 192.168.8.1:80 failed to respond,Thread Group 1-1,text,false,,2978,115,1,1,http://192.168.8.1/html/index.html?url=google.com,63,0,55
+1669310422659,64,HTTP Request-0,307,Temporary Redirect,Thread Group 1-1,text,true,,401,115,1,1,http://google.com/,63,0,55
+1669310422723,0,HTTP Request-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 192.168.8.1:80 failed to respond,Thread Group 1-1,text,false,,2577,0,1,1,http://192.168.8.1/html/index.html?url=google.com,0,0,0
